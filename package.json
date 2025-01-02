@@ -1,5 +1,5 @@
 {
-  "name": "ethcall",
+"name": "@machfi/ethcall",
   "version": "4.3.5",
   "description": "ethers.js-compatible wrapper around Multicall",
   "main": "lib/index.js",
@@ -40,5 +40,13 @@
     "ts-node": "10.5.0",
     "typescript": "4.5.5",
     "vitest": "0.3.5"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/Destiner/ethcall/issues"
+  },
+  "homepage": "https://github.com/Destiner/ethcall#readme"
 }
